@@ -1,6 +1,6 @@
-# budget-track
-Budget Tracker
-# Budget TrackApp
+# budget-tracking
+
+
 
 
 ## Table of Contents
