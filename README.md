@@ -1,73 +1,56 @@
-# Budget Tracker
- A budget tracker that also works offline as a progressive web app.
+# budget-tracking
 
 
-by Pirooz Wallace
-2/27/21
-
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)  -- MIT license fine print is also it's own file in the repo
-
-Deployed Heroku App: [App on Heroku](https://secret-chamber-01910.herokuapp.com/)
-
-GitHub Repo: [Budget Tracker repo](https://github.com/attack-theoRy/budget-pwa-offline-tracker)
-
-Portfolio: [Portfolio](https://attack-theory.github.io/Portfolio/)
 
 
 ## Table of Contents
-* [API's + Tech](#tech)
 * [Description](#description)
 * [Installation](#installation)
+* [Usage](#usage)
+* [Technologies](#technologies)
 * [License](#license)
+* [Contributors](#contributors)
 * [Questions](#questions)
 
-## Tech
-* Progressive Web App | Web Manifest
-* Node.js
+## Description
+The Budget Tracker application allows for offline access and functionality.
+The purpose and function is to show how to add expenses and deposits to the budget tracker with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+
+## Installation Instructions
+Clone or download the repository, and install node.js, npm install with dependencies.
+
+## Usage
+ The application is invoked by using the following
+"node server.js" command.
+Run app on node server.js, and deploy to local host 3000: 
+
+
+![Budget App](https://user-images.githubusercontent.com/65749636/111860866-91deb480-8907-11eb-8fd9-e81daf2a8468.PNG)
+
+
+## Technologies Used
+
 * Express
 * Mongoose
-* Robo 3T
-* Heroku and Mongo db Atlas
+* Mongodb
+* Compression
 * Morgan
-
-
-## Description
-
-This is a full-stack progressive web app that uses Node.js, Express routes, Mongoose, mongo DB atlas, heroku to track your budget. You can add or subtract to your budget. 
-
-![Install](public/images/Sample1install.PNG)
-
-Because this is a progressive web app, you can also install it on your phone or desktop to use for offline use.
-
-![OfflineApp](public/images/Sample2Standalone.PNG)
-
-
-
-## Installation
-
-The app can be found with no installation needed on heroku at :  https://secret-chamber-01910.herokuapp.com/
-Or to use through terminal do the following:
-
-To use properly you can either use `npm install ` to install all the dependencies from package.json or you can install the dependencies one by one. First need to install Node.js and in the terminal you have to use the command 
-``` npm init -y ```
-
-and then also install the following dependencies 
-
-``` npm install express ```  to install express  (for routes)
-
-``` npm install mongoose  ``` to install mongoose  (for databases)
-
-``` npm install morgan ``` to install morgan (request logger middleware)
-
-And then finally to start the application you type ``` node server.js ``` in the terminal.
+* Lite-Server
+* Node.js
 
 ## License
+ISC
 
-MIT License is in a separate file
+<img src="https://img.shields.io/badge/LICENSE-isc-green"/>
+
+
+## Contributors
+Eva Wang
 
 ## Questions
-For questions please contact: Pirooz Wallace
+Contact me:
+Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
-at : PiroozWallace@outlook.com
+Github: https://github.com/elphinhote/Budget-TrackApp/
 
-Github Profile: https://github.com/attack-theoRy
+Deployed App: https://budtracking.herokuapp.com/
