@@ -22,7 +22,7 @@ Clone or download the repository, and install node.js, npm install with dependen
 ## Usage
  The application is invoked by using the following
 "node server.js" command.
-Run app on node server.js, and deploy to local host 3000: 
+Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku link below. 
 
 
 ![Budget App](https://user-images.githubusercontent.com/65749636/111860866-91deb480-8907-11eb-8fd9-e81daf2a8468.PNG)
