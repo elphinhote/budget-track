@@ -52,6 +52,6 @@ Eva Wang
 Contact me:
 Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
-Github: https://github.com/elphinhote/Budget-TrackApp/
+Github: https://github.com/elphinhote/budget-tracking
 
 Deployed App: https://budgeting-tracking.herokuapp.com/
