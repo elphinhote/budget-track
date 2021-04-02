@@ -37,6 +37,7 @@ Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku li
 * Morgan
 * Lite-Server
 * Node.js
+* Heroku
 
 ## License
 ISC
@@ -53,4 +54,4 @@ Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
 Github: https://github.com/elphinhote/Budget-TrackApp/
 
-Deployed App: https://budtracking.herokuapp.com/
+Deployed App: https://budgeting-tracking.herokuapp.com/
